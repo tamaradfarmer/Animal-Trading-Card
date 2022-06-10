@@ -1,0 +1,42 @@
+.card {
+  width: 330px;
+  padding: 15px;
+  border-style: solid;
+  border-width:2px;
+  border-color:grey;
+}
+
+h2{
+  font: bold 25px Serif;
+
+}
+
+img{
+  border-style:solid;
+  border-width:1px;
+  border-color: blue;
+}
+
+.text {
+  width: 292px;
+  padding: 4px;
+  border-style: solid;
+  border-width:1px;
+  border-color:grey;
+
+}
+
+.Fact {
+  font-style: italic;
+}
+
+.Label{
+  font:bold 18px serif ;
+  text-align: left;
+}
+
+li{
+  list-style-type: none;
+  text-align:left;
+
+}
